@@ -1,0 +1,5 @@
+pandas
+numpy
+pypdf
+streamlit
+streamlit_lottie
